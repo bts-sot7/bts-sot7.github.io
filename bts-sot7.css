@@ -92,9 +92,9 @@ body svg {
   height: 0;
 }
 body .card {
-  width: 500px;
-  min-width: 500px;
-  height: 350px;
+  width: 600px;
+  min-width: 600px;
+  height: 420px;
   position: relative;
   max-width: 100%;
   background: #fff;
@@ -403,4 +403,3 @@ body .card .blob:after {
   width: 40%;
   height: 60%;
 }
- 
